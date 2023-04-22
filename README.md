@@ -1,6 +1,7 @@
 ## Olá!!! Eu sou o Cristian Borges 🖐
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJnxvqHVpDnsBzzJwZnFzqqKHxZhRkQzHmgmfwDJknFljMVGRKjTfgxkFPrsdgTkfhwSq)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristianprogramador/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianprogramador/)
 
 ![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBorgesDaSilva&show_icons=true&title_color=FFDE59&theme=dark&icon_color=FFDE59)
 
